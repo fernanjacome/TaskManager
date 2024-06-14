@@ -23,10 +23,9 @@ El proyecto está organizado en dos partes principales: el backend y el frontend
 
 Para comenzar a utilizar nuestra aplicación, sigue estos pasos:
 
-1. **Clonar el Repositorio**: Clona este repositorio en tu máquina local utilizando el siguiente comando:
+# Clonar el Repositorio**: Clona este repositorio en tu máquina local utilizando el siguiente comando:
 
-```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/fernanjacome/TaskManager.git
 
 # Instalar Dependencias
 
