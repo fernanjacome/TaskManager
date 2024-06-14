@@ -1,0 +1,26 @@
+
+frontend/
+|-- public/
+|   |-- index.html
+|   |-- favicon.ico
+|-- src/
+|   |-- api/
+|   |   |-- api.js
+|   |-- components/
+|   |   |-- Navbar/
+|   |   |   |-- Navbar.js
+|   |   |   |-- Navbar.css
+|   |   |-- TaskList/
+|   |   |   |-- TaskList.js
+|   |   |   |-- TaskList.css
+|   |   |-- TaskForm/
+|   |   |   |-- TaskForm.js
+|   |   |   |-- TaskForm.css
+|   |-- pages/
+|   |   |-- Home.js
+|   |-- App.js
+|   |-- index.js
+|   |-- App.css
+|   |-- index.css
+|-- package.json
+|-- README.md

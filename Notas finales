@@ -1,0 +1,19 @@
+Configuración del Backend:
+
+Utilizamos Node.js con Express para crear un servidor HTTP.
+Conectamos el servidor a una base de datos MongoDB mediante Mongoose.
+Definimos rutas RESTful para realizar operaciones CRUD en los datos.
+Configuración del Frontend:
+
+Iniciamos un proyecto de React para la interfaz de usuario.
+Utilizamos Axios para realizar solicitudes HTTP al backend.
+Integración Frontend-Backend:
+
+Establecimos la comunicación entre el frontend y el backend mediante solicitudes HTTP.
+Implementación de Funcionalidades:
+
+Implementamos las operaciones CRUD en ambas partes de la aplicación.
+Pruebas y Depuración:
+
+Escribimos pruebas unitarias y de integración para validar el comportamiento de la aplicación.
+Utilizamos herramientas de depuración para resolver errores y problemas de funcionamiento.
